@@ -1,8 +1,7 @@
-# React + Vite
+# fitness Tracking App
+  It is a fitness app used for tracking and developing you training it this contain all type of exercise with all equipment you should only search for the equipment name or which body part you want to train.also it contain  add task in that page we add task for better understanding
+  it contain BMI calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  # External Api Used
+  -Exercises Data:(https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
+  -BMI Calculator: (https://rapidapi.com/malaaddincelik/api/fitness-calculator/)
