@@ -70,7 +70,7 @@ function Main() {
 
         <div className="d-flex flex-row align-items-center justify-content-center h-50">
           <img
-            src="./images/sport-muscular-fitness-man-working-out-gym_174475-121.avif"
+            src="https://img.freepik.com/free-photo/athletic-shirtless-young-male-fitness-model-holds-dumbbell-with-light-isolated-dark-background_613910-20.jpg"
             alt=""
             className="mainimg2"
             data-aos="zoom-in-right"
