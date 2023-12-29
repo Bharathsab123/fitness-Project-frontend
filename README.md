@@ -3,5 +3,14 @@
   it contain BMI calculator
 
   # External Api Used
-  -Exercises Data:(https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
-  -BMI Calculator: (https://rapidapi.com/malaaddincelik/api/fitness-calculator/)
+  - Exercises Data:(https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
+  - BMI Calculator: (https://rapidapi.com/malaaddincelik/api/fitness-calculator/)
+
+#Deployment Link
+live site :(https://deluxe-strudel-e2af3d.netlify.app)
+
+#Backend Github Link
+Link :(https://github.com/Bharathsab123/fitness-Project-backend.git)
+
+#we use
+ # reactjs ## react-router ## css3 ## html5 ##AOS
